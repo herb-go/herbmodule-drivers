@@ -5,10 +5,10 @@ import (
 
 	"github.com/herb-go/herbmodules/protecter/authenticator/appsecretsign"
 
-	"github.com/herb-go/herbsecurity/authority/credential"
-	"github.com/herb-go/misc/generator"
 	"github.com/herb-go/herbmodules/protecter/authenticator"
 	"github.com/herb-go/herbmodules/protecter/authenticator/appsecret"
+	"github.com/herb-go/herbsecurity/authority/credential"
+	"github.com/herb-go/misc/generator"
 	"github.com/herb-go/providers/herb/statictoml"
 )
 

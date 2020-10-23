@@ -6,10 +6,10 @@ import (
 	"github.com/herb-go/herbmodules/protecter/protectermanager"
 
 	actionoverseer "github.com/herb-go/herb-drivers/overseers/actionoverseer"
-	"github.com/herb-go/herbsecurity/authority/credential"
+	authenticatorfactoryoverseer "github.com/herb-go/herbmodule-drivers/protecter-drivers/overseers/authenticatorfactoryoverseer"
 	"github.com/herb-go/herbmodules/httpinfomanager"
 	"github.com/herb-go/herbmodules/protecter"
-	authenticatorfactoryoverseer "github.com/herb-go/herbmodule-drivers/protecter-drivers/overseers/authenticatorfactoryoverseer"
+	"github.com/herb-go/herbsecurity/authority/credential"
 	"github.com/herb-go/worker"
 )
 

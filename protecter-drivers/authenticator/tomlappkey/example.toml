@@ -4,4 +4,5 @@ Owner="testowner"
 User=""
 Key="testkey"
 [Apps.Payloads]
+role=""
 payloadname = "payloadvalue"
